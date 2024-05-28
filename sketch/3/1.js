@@ -15,7 +15,7 @@ export function sketch() {
         // lights
         night: false,
         // lance
-        lanceLength: 1 + Math.random() * 4,
+        lanceLength: 1 + Math.random() * 7,
         baseDiam: .04,
         topDiam: 0,
         numRows: 1 + Math.floor(Math.random() * 10),
